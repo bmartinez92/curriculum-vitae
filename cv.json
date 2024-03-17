@@ -192,7 +192,8 @@
       "isActive": true,
       "description": "Ecommerce para venta de repuestos automotores y gestión de citas para mejoras",
       "highlights": ["Mejorando experiencias", "En desarrollo"],
-      "url": "https://brp-ecommerce.vercel.app/"
+      "url": "https://brp-ecommerce.vercel.app/",
+      "github": ""
     }
   ]
 }
