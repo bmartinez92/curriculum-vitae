@@ -6,16 +6,28 @@ import JavaScript from "@/icons/javascript.astro"
 import TypeScript from "@/icons/type.astro"
 import React from "@/icons/react.astro"
 import Node from "@/icons/node.astro"
-import MySQL from "@/icons/sql.astro"
+import SQL from "@/icons/sql.astro"
 import Git from "@/icons/git.astro"
 import GitHub from "@/icons/GitHub.astro"
-import Tailwind from "@/icons/tailwind.astro"
+import TailwindCss from "@/icons/tailwind.astro"
 import Next from "@/icons/next.astro"
 import { skills } from "@cv"
 import Swift from "@/icons/swift.astro"
 import SwiftUI from "@/icons/swiftui.astro"
 import Kotlin from "@/icons/kotlin.astro"
 import Flutter from "@/icons/flutter.astro"
+import Figma from "@/icons/figma.astro"
+import MongoDB from "@/icons/mongo-db.astro"
+import REST from "@/icons/rest.astro"
+import Postgres from "@/icons/postgres.astro"
+import Expressjs from "@/icons/express.astro"
+import CPlusPlus from "@/icons/c-plus-plus.astro"
+import QT from "@/icons/qt.astro"
+import Java from "@/icons/java.astro"
+import PHP from "@/icons/php.astro"
+import Storybook from "@/icons/story-book.astro"
+import Zustand from "@/icons/zustand.astro"
+import Shadcn from "@/icons/shadcn-ui.astro"
 
 const SKILLS_ICONS: Record<string, any> = {
   HTML,
@@ -24,15 +36,27 @@ const SKILLS_ICONS: Record<string, any> = {
   TypeScript,
   React,
   Node,
-  MySQL,
+  SQL,
   Git,
   GitHub,
   Next,
-  Tailwind,
+  TailwindCss,
   Swift,
   SwiftUI,
   Kotlin,
   Flutter,
+  Figma,
+  MongoDB,
+  REST,
+  Postgres,
+  Expressjs,
+  CPlusPlus,
+  QT,
+  Java,
+  PHP,
+  Storybook,
+  Zustand,
+  Shadcn
 }
 ---
 
@@ -40,7 +64,7 @@ const SKILLS_ICONS: Record<string, any> = {
   <ul>
     {
       skills.map(({ name }) => {
-        const iconName = name === "Next.js" ? "Next" : name
+        const iconName = name === "Next.js" ? "Next" : name === "C++" ? 'CPlusPlus' : name === "Shadcn/ui" ? 'Shadcn' : name
         const Icon = SKILLS_ICONS[iconName]
 
         return (
