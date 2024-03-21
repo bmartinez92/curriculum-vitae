@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Brian Valdés Martínez",
-    "label": "Full Stack Developer con más de 5 años de experiencia.",
+    "label": "Frontend Developer con más de 5 años de experiencia.",
     "image": "/cv/me.webp",
     "email": "brianvaldesmartinez92@gmail.com",
     "phone": "+591 60881977",
@@ -29,18 +29,35 @@
   },
   "work": [
     {
-      "name": "Componente para gestión de trazas del Liferay Portal",
+      "name": "BR-Performance",
       "position": "Programador Web",
-      "url": "https://repositorio.uci.cu/jspui/handle/123456789/7844",
-      "startDate": "2015",
-      "endDate": "2016",
-      "summary": "La presente investigación se nutre de la generación de un componente de gestión de trazas, el cual brindará fiabilidad en el uso de la herramienta y apoyo a los administradores del sistema en la toma de decisiones. El proceso de desarrollo del componente fue manejado a través de la Metodología Unificada Ágil (AUP) con una pequeña adaptación para los procesos productivos de la Universidad de la Ciencias Informáticas (UCI). ",
+      "url": "https://brp-ecommerce.vercel.app/",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "El sitio web de BR-Performance ofrece una experiencia de usuario fluida y receptiva, optimizada para dispositivos móviles y de escritorio, lo que permite a los clientes acceder a los servicios y productos de la empresa desde cualquier lugar y en cualquier momento. Además, la integración de un sistema de gestión de citas simplifica el proceso de reserva, permitiendo a los clientes programar servicios de mejora de rendimiento de manera conveniente y eficiente.",
       "highlights": [
-        "Uso de APIs y Frameworks",
-        "Tecnologías de almacenamiento de datos",
-        "Compatibilidad con estándares de la industria",
-        "Escalabilidad y rendimiento",
-        "Monitorización en tiempo real"
+        "Frontend developer",
+        "Next.js",
+        "React",
+        "Zustand",
+        "Shad/cn",
+        "TailwindCss",
+        "Diseño Responsivo",
+        "Sistema de Reservas Online",
+        "Seguridad y Protección de Datos"
+      ]
+    },
+    {
+      "name": "IBER-GEOMIN SL",
+      "position": "Programador Web",
+      "url": "https://ibergeomin.es/",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Proporcionar productos de alta calidad y confiabilidad, asegurando un suministro constante para nuestros clientes y contribuyendo al desarrollo y crecimiento del sector industrial en Europa.",
+      "highlights": [
+        "Optimización para Motores de Búsqueda (SEO)",
+        "Diseño Responsivo",
+        "Seguridad y Protección"
       ]
     },
     {
@@ -58,35 +75,18 @@
       ]
     },
     {
-      "name": "IBER-GEOMIN SL",
+      "name": "Componente para gestión de trazas del Liferay Portal",
       "position": "Programador Web",
-      "url": "https://ibergeomin.es/",
-      "startDate": "2022",
-      "endDate": "2023",
-      "summary": "Proporcionar productos de alta calidad y confiabilidad, asegurando un suministro constante para nuestros clientes y contribuyendo al desarrollo y crecimiento del sector industrial en Europa.",
+      "url": "https://repositorio.uci.cu/jspui/handle/123456789/7844",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "La presente investigación se nutre de la generación de un componente de gestión de trazas, el cual brindará fiabilidad en el uso de la herramienta y apoyo a los administradores del sistema en la toma de decisiones. El proceso de desarrollo del componente fue manejado a través de la Metodología Unificada Ágil (AUP) con una pequeña adaptación para los procesos productivos de la Universidad de la Ciencias Informáticas (UCI). ",
       "highlights": [
-        "Optimización para Motores de Búsqueda (SEO)",
-        "Diseño Responsivo",
-        "Seguridad y Protección"
-      ]
-    },
-    {
-      "name": "BR-Performance",
-      "position": "Programador Web",
-      "url": "https://brp-ecommerce.vercel.app/",
-      "startDate": "2024",
-      "endDate": "2024",
-      "summary": "El sitio web de BR-Performance ofrece una experiencia de usuario fluida y receptiva, optimizada para dispositivos móviles y de escritorio, lo que permite a los clientes acceder a los servicios y productos de la empresa desde cualquier lugar y en cualquier momento. Además, la integración de un sistema de gestión de citas simplifica el proceso de reserva, permitiendo a los clientes programar servicios de mejora de rendimiento de manera conveniente y eficiente.",
-      "highlights": [
-        "Frontend developer",
-        "Next.js",
-        "React",
-        "Zustand",
-        "Shad/cn",
-        "TailwindCss",
-        "Diseño Responsivo",
-        "Sistema de Reservas Online",
-        "Seguridad y Protección de Datos"
+        "Uso de APIs y Frameworks",
+        "Tecnologías de almacenamiento de datos",
+        "Compatibilidad con estándares de la industria",
+        "Escalabilidad y rendimiento",
+        "Monitorización en tiempo real"
       ]
     }
   ],
