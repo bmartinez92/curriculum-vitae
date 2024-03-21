@@ -29,12 +29,12 @@
   },
   "work": [
     {
-      "name": "Componente para Monitoreo y Administración de trazas de Liferay Community Edition",
+      "name": "Componente para gestión de trazas del Liferay Portal",
       "position": "Programador Web",
-      "url": "",
+      "url": "https://repositorio.uci.cu/jspui/handle/123456789/7844",
       "startDate": "2016",
       "endDate": "2017",
-      "summary": "El objetivo principal del Monitoreo de trazas es ayudar a identificar problemas de rendimiento, errores de aplicación y cuellos de botella en la instancia de Liferay. Al recopilar datos detallados sobre las operaciones del sistema, los usuarios pueden diagnosticar y solucionar problemas de manera más eficiente, lo que contribuye a mejorar la experiencia del usuario y la estabilidad general del entorno Liferay Community Edition.",
+      "summary": "La presente investigación se nutre de la generación de un componente de gestión de trazas, el cual brindará fiabilidad en el uso de la herramienta y apoyo a los administradores del sistema en la toma de decisiones. El proceso de desarrollo del componente fue manejado a través de la Metodología Unificada Ágil (AUP) con una pequeña adaptación para los procesos productivos de la Universidad de la Ciencias Informáticas (UCI). ",
       "highlights": [
         "Uso de APIs y Frameworks",
         "Tecnologías de almacenamiento de datos",
