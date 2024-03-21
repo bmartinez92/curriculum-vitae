@@ -32,8 +32,8 @@
       "name": "Componente para gestión de trazas del Liferay Portal",
       "position": "Programador Web",
       "url": "https://repositorio.uci.cu/jspui/handle/123456789/7844",
-      "startDate": "2016",
-      "endDate": "2017",
+      "startDate": "2015",
+      "endDate": "2016",
       "summary": "La presente investigación se nutre de la generación de un componente de gestión de trazas, el cual brindará fiabilidad en el uso de la herramienta y apoyo a los administradores del sistema en la toma de decisiones. El proceso de desarrollo del componente fue manejado a través de la Metodología Unificada Ágil (AUP) con una pequeña adaptación para los procesos productivos de la Universidad de la Ciencias Informáticas (UCI). ",
       "highlights": [
         "Uso de APIs y Frameworks",
@@ -47,8 +47,8 @@
       "name": "RED COLABORATIVA DE INGENIERÍA Y GESTIÓN DE PROYECTOS",
       "position": "Programador Web",
       "url": "https://gespro.uci.cu/projects/",
-      "startDate": "2018",
-      "endDate": "2019",
+      "startDate": "2017",
+      "endDate": "2018",
       "summary": "Iniciativa destinada a crear un espacio virtual donde ingenieros, gestores de proyectos y profesionales afines puedan conectarse, compartir recursos, discutir ideas y colaborar en proyectos conjuntos. La plataforma proporcionará herramientas avanzadas para la gestión de proyectos, comunicación en tiempo real, almacenamiento seguro de datos y documentación, así como funciones de networking y colaboración en grupos de trabajo.",
       "highlights": [
         "Plataforma de Colaboración Online",
@@ -61,8 +61,8 @@
       "name": "IBER-GEOMIN SL",
       "position": "Programador Web",
       "url": "https://ibergeomin.es/",
-      "startDate": "2023",
-      "endDate": "2024",
+      "startDate": "2022",
+      "endDate": "2023",
       "summary": "Proporcionar productos de alta calidad y confiabilidad, asegurando un suministro constante para nuestros clientes y contribuyendo al desarrollo y crecimiento del sector industrial en Europa.",
       "highlights": [
         "Optimización para Motores de Búsqueda (SEO)",
@@ -74,8 +74,8 @@
       "name": "BR-Performance",
       "position": "Programador Web",
       "url": "https://brp-ecommerce.vercel.app/",
-      "startDate": "2025",
-      "endDate": "2025",
+      "startDate": "2024",
+      "endDate": "2024",
       "summary": "El sitio web de BR-Performance ofrece una experiencia de usuario fluida y receptiva, optimizada para dispositivos móviles y de escritorio, lo que permite a los clientes acceder a los servicios y productos de la empresa desde cualquier lugar y en cualquier momento. Además, la integración de un sistema de gestión de citas simplifica el proceso de reserva, permitiendo a los clientes programar servicios de mejora de rendimiento de manera conveniente y eficiente.",
       "highlights": [
         "Frontend developer",
